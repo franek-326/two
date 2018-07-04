@@ -11,6 +11,7 @@ public class Main {
         beskidy = new ArrayList<String>();
         beskidy.add("Beskid Wyspowy");
         beskidy.add("Beskid Makowski");
+        beskidy.add("Gorce");
 
         beskidy.forEach((beskid) -> System.out.println(beskid));
     }
